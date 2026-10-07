@@ -1,0 +1,8 @@
+# Configurações locais e de ferramentas
+.openai/
+.vercel/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
